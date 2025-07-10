@@ -29,5 +29,8 @@ To explore the **Bank Marketing Dataset** from the UCI Machine Learning Reposito
 3. Open the Python script in `notebooks/decision_tree_classifier.py`  
 4. Run the code to see model training, evaluation, and visualizations
 
-```bash
-python decision_tree_classifier.py
+# Output
+Accuracy: ~88%
+Confusion Matrix:
+<img width="1241" height="607" alt="image" src="https://github.com/user-attachments/assets/24ecfea3-47ca-45c3-bd6c-dca10fe54efc" />
+
